@@ -5,8 +5,8 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/Foksen/DoCSA-2
-          search-paths: Pr8/config
+          uri: https://github.com/Niktopol/prac8
+          search-paths: config
           default-label: master
           clone-on-start: true
           timeout: 10
